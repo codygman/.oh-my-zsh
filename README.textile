@@ -1,5 +1,5 @@
 h1. my personal oh-my-zsh repository
 
-This is not oh-my-zsh, but is simply my personal repository for it. I created this reposiotry to keep my plugins, especially custom ones, consistent across all my computers. This pulls all the oh-my-zsh code from it's home:
+This is my personal repository for my oh-my-zsh installation. I created this reposiotry to keep my plugins, especially custom ones, consistent across all my computers. This pulls all the oh-my-zsh stuff from it's home:
 "Oh-My-Zsh":https://github.com/robbyrussell/oh-my-zsh/
 
